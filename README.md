@@ -10,3 +10,13 @@ Been part of the frontend team that created our college's techno-cultural fest w
 - Link: <a href="https://hestiatkmce.live/" target="_blank">hestia tkmce<a/>
 
 ![Hestia](/assets/hestia.png)
+  
+  
+<h3><u><strong><i>ATHENA WEB APP</i></strong></u> &nbsp;( Next js )</h3>
+<hr />
+
+Developed the entire tech fest web app, both frontend and backend.
+
+- Link: <a href="https://athenatkmce.live/" target="_blank">athena tkmce<a/>
+
+![Hestia](/assets/athena.png)
