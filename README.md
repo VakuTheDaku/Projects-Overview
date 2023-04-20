@@ -7,7 +7,7 @@ I have built several web applications and some mobile and web 3 apps too.
 
 Been part of the frontend team that created our college's techno-cultural fest website.
 
-- Link: <a href="https://hestiatkmce.live/" target="_blank">hestia tkmce<a/>
+- Link: <a href="https://hestiatkmce.live/" target="_blank">hestia<a/>
 
 ![Hestia](/assets/hestia.png)
   
@@ -17,6 +17,6 @@ Been part of the frontend team that created our college's techno-cultural fest w
 
 Developed the entire tech fest web app, both frontend and backend.
 
-- Link: <a href="https://athenatkmce.live/" target="_blank">athena tkmce<a/>
+- Link: <a href="https://athenatkmce.live/" target="_blank">athena<a/>
 
-![Hestia](/assets/athena.png)
+![Athena](/assets/athena.png)
