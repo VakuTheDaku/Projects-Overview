@@ -35,7 +35,7 @@ An electric yacht builder web app similar to tesla motors website.
 <h3><u><strong><i>DEMEDIFY</i></strong></u> &nbsp; (ETHERIUM, Next js)</h3>
 <hr />
 
-An web 3 app, that provides decentralised storage of patients medical records.
+Web 3 app that provides decentralised storage of patients medical records.
 
 - Link: <a href="https://github.com/VakuTheDaku/submission-template" target="_blank">demedify<a/>
 
