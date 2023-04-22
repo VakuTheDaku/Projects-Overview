@@ -37,6 +37,6 @@ An electric yacht builder web app similar to tesla motors website.
 
 An web 3 app, that provides decentralised storage of patients medical records.
 
-- Link: <a href="https://github.com/VakuTheDaku/submission-template" target="_blank">novaluxe builder<a/>
+- Link: <a href="https://github.com/VakuTheDaku/submission-template" target="_blank">demedify<a/>
 
 ![Demedify](/assets/demed.png)
