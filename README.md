@@ -20,3 +20,13 @@ Developed the entire tech fest web app, both frontend and backend.
 - Link: <a href="https://athenatkmce.live/" target="_blank">athena<a/>
 
 ![Athena](/assets/athena.png)
+
+
+<h3><u><strong><i>NOVALUXE YACHT BUILDER APP</i></strong></u> &nbsp;</h3>
+<hr />
+
+An electric yacht builder web app similar to tesla motors website.
+
+- Link: <a href="https://www.builder.novaluxeyachts.com/" target="_blank">novaluxe builder<a/>
+
+![Novaluxe yachts](/assets/novaluxe.png)
