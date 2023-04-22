@@ -30,3 +30,13 @@ An electric yacht builder web app similar to tesla motors website.
 - Link: <a href="https://www.builder.novaluxeyachts.com/" target="_blank">novaluxe builder<a/>
 
 ![Novaluxe yachts](/assets/novaluxe.png)
+
+
+<h3><u><strong><i>DEMEDIFY</i></strong></u> &nbsp; (ETHERIUM, Next js)</h3>
+<hr />
+
+An web 3 app, that provides decentralised storage of patients medical records.
+
+- Link: <a href="https://github.com/VakuTheDaku/submission-template" target="_blank">novaluxe builder<a/>
+
+![Demedify](/assets/demed.png)
